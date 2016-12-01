@@ -1,0 +1,13 @@
+-  --------  ----  ---  --  ------------  --  ----  ----  ---  ---  -  ---------
+0  LP001032  Male  No   0   Graduate      No  4950     0  125  360  1  Urban
+1  LP001824  Male  Yes  1   Graduate      No  2882  1843  123  480  1  Semiurban
+2  LP002928  Male  Yes  0   Graduate      No  3000  3416   56  180  1  Semiurban
+3  LP001814  Male  Yes  2   Graduate      No  9703     0  112  360  1  Urban
+4  LP002244  Male  Yes  0   Graduate      No  2333  2417  136  360  1  Urban
+5  LP001854  Male  Yes  3+  Graduate      No  5250     0   94  360  1  Urban
+6  LP002505  Male  Yes  0   Graduate      No  4333  2451  110  360  1  Urban
+7  LP002862  Male  Yes  2   Not Graduate  No  6125  1625  187  480  1  Semiurban
+8  LP001630  Male  No   0   Not Graduate  No  2333  1451  102  480  0  Urban
+9  LP001964  Male  Yes  0   Not Graduate  No  1800  2934   93  360  0  Urban
+-  --------  ----  ---  --  ------------  --  ----  ----  ---  ---  -  ---------
+
